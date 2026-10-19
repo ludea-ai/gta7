@@ -6,6 +6,8 @@ window.GAME_I18N.en = {
   "GTA 7 · Neon City": "GTA 7 · Neon City",
   "GTA7": "GTA7",
   "Roule, livre, fais la course… et sème la police !": "Drive, deliver, race… and lose the cops!",
+  "Mentions légales": "Legal notice",
+  "Confidentialité": "Privacy",
   "Nom de ta ville :": "Name your city:",
   "Neon City": "Neon City",
   "Ton nom": "Your name",
