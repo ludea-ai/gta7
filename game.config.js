@@ -27,9 +27,9 @@ window.GAME = {
     shortName: "GTA7",
     tagline: "Roule, livre, fais la course… et sème la police !",
     saveKey: "gta7-neon-city",
-    legalLinks: [{ label: "Mentions légales", url: "https://ludea.ai/legal/" }, { label: "Confidentialité", url: "https://ludea.ai/privacy/" }],
+    legalLinks: [{ label: "Mentions légales", url: "https://ludea.ai/legal/" }, { label: "Confidentialité", url: "https://ludea.ai/privacy/" }, { label: "Contact", url: "https://ludea.ai/contact/" }],
     audience: { minAge: 10, notes: "arcade/cartoon action, top-down driving, mild — no weapons, no gore, no blood, no explicit content" },
-    assetVersion: "v24",
+    assetVersion: "v25",
     theme: { home: "#160f28", play: "#141024", closeup: "#141024" },
 
     showCoins: true,
