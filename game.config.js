@@ -29,7 +29,7 @@ window.GAME = {
     saveKey: "gta7-neon-city",
     legalLinks: [{ label: "Mentions légales", url: "https://ludea.ai/legal/" }, { label: "Confidentialité", url: "https://ludea.ai/privacy/" }, { label: "Contact", url: "https://ludea.ai/contact/" }],
     audience: { minAge: 10, notes: "arcade/cartoon action, top-down driving, mild — no weapons, no gore, no blood, no explicit content" },
-    assetVersion: "v27",
+    assetVersion: "v28",
     theme: { home: "#160f28", play: "#141024", closeup: "#141024" },
 
     showCoins: true,
